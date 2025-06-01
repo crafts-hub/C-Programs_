@@ -1,4 +1,4 @@
-<h2 align="center">Table of Content (C++)</h2>
+<h2 align="center">Table of Content (C)</h2>
 
 
 ### [Variables](#variables-1)
@@ -48,8 +48,8 @@
 - [Question 32](#question-32) 👉 Write output of the program
 - [Question 33](#question-33) 👉 Write output of the program
 - [Question 34](#question-34) 👉 Write output of the program
-- [Question 35](#question-35) 👉 Write output of the program
-- [Question 36](#question-36) 👉 Write output of the program (Tricky one)
+- [Question 35](#question-35) 👉 Write output of the program (Tricky one)
+
 
 ---
 
@@ -1587,7 +1587,7 @@ Result: 15
 
 
 
-### [Question 33](#exercise)
+### [Question 32](#exercise)
 #### Write output of the program.
 
 ### Program
@@ -1661,7 +1661,7 @@ In main: 11
 
 
 
-### [Question 34](#exercise)
+### [Question 33](#exercise)
 #### Write output of the program.
 
 ### Program
@@ -1796,7 +1796,7 @@ cout << "b = " << b; // b = 128
 
 
 
-### [Question 35](#exercise)
+### [Question 34](#exercise)
 #### Write output of the program.
 
 ### Program
@@ -1862,7 +1862,7 @@ b: 28
 
 
 
-### [Question 36](#exercise)
+### [Question 35](#exercise)
 #### Write output of the program.
 
 ### Program
