@@ -52,6 +52,20 @@
 - [Question 35](#question-35) 👉 Write output of the program (Tricky one)
 
 
+
+
+
+
+<br>
+<p align="right">
+  <img src="https://github.com/crafts-hub/C-plus-Programs/blob/main/Source%20Code/z-Assets/LOGO%20PNG_02.png" alt="logo" width="18" style="vertical-align: middle; margin-right: 4px;" />
+  <span style="font-size: 10px; color: gray;">jameel499</span>
+</p>
+
+
+
+
+
 ---
 
 
